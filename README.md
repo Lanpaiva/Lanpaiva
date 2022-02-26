@@ -1,8 +1,8 @@
 ### Olá, eu sou o Alan Paiva!
 
-
-- 🔭 I’m currently working on ...
 - 🌱 Estudando atualmente Javascript
+
+
 
 <div align="center">
   <a href="https://github.com/AllaNomade">

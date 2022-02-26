@@ -20,7 +20,7 @@
   <a href = "mailto:contatoalanpaiva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href ="https://app.slack.com/client/T8F4LDVK8/C8DNQ2ZCH/user_profile/U0311J03Y0N"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
-       <a href="https://www.linkedin.com/in/alan-araujo-713ab2226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       <a href="https://www.linkedin.com/in/alanpaiva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     </div>

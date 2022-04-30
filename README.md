@@ -18,6 +18,8 @@
   <img align="center" alt="Alan-Redux" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="AlanReact" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="AlanReact" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="AlanDocker" height="34" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
    
 
     

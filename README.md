@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alan Paiva!
 
-- 🌱 Estudando atualmente Javascript
+- 🌱 Estudando atualmente Javascript/Typescript
 
 
 

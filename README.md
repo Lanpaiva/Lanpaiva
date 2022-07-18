@@ -17,7 +17,6 @@
   <img align="center" alt="Alan-CSS" height="33" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AlanReact" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="AlanNode" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="AlanNode" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
  
 
           

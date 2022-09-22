@@ -2,7 +2,7 @@
 
 - 🌱 Estudando atualmente NextJs
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NAME+É+ALAN+ARAUJO;EU+TENHO+23+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 

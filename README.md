@@ -1,4 +1,4 @@
-### Olá, eu sou o Alan Paiva!
+### Olá, eu sou o Alan Araujo Paiva!
 
 - 🌱 Estudando atualmente NextJs
 

@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+ARAUJO;EU+TENHO+23+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://github.com/AllaNomade">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allanomade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanomade&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt"Alan-Ts" height="33" width="39" padding="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">

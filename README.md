@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/alanpaiva1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allanomade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanomade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanpaiva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpaiva1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
@@ -41,7 +41,7 @@
     </div>
      <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AllaNomade}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanpaiva1}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

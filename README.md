@@ -4,7 +4,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+ARAUJO;EU+TENHO+23+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+ARAUJO;EU+TENHO+24+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/alanpaiva1">
@@ -14,7 +14,7 @@
 
   
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="AlanGO" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt"Alan-Ts" height="33" width="39" padding="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Alan-Js" height="33" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-HTML" height="33" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

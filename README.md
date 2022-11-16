@@ -2,7 +2,7 @@
 
 > status: Desenvolvedor de Software Backend.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+PAIVA;EU+TENHO+24+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
@@ -50,4 +50,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanpaiva1}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=footer"/>

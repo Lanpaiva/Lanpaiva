@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alan Araujo Paiva!
 
-- 🌱 Estudando atualmente NodeJs e Express
+Desenvolvedor de Software Backend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=header"/>
 

@@ -1,6 +1,6 @@
-# Olá, eu sou o Alan Paiva! 
+ ## 
 
-Desenvolvedor de Software Backend.
+> status: Desenvolvedor de Software Backend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=90&section=header"/>
 
@@ -26,11 +26,17 @@ Desenvolvedor de Software Backend.
   <img align="center" alt="AlanDocker" height="47" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="AlanSql" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="AlanMongoDB" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-    
+  
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Lanpaiva&theme=gotham&hide_border=true&area=true)
-    
+  
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=Lanpaiva&theme=gotham&hide_border=true&area=true)
+  
+   ## Focus:
+  + clean Architecture
+  + Microservices
+  + Unit Tests
+  + TDD
+  
    <div style="display:inline_block" align="center">
   <a href = "mailto:contatoalanpaiva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href = "mailto:allanpaiva17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,5 +50,4 @@ Desenvolvedor de Software Backend.
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanpaiva1}/count.svg" /></p> 
 <br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

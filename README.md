@@ -7,9 +7,9 @@ Desenvolvedor de Software Backend.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+ARAUJO;EU+TENHO+24+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/alanpaiva1">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AllaNomade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllaNomade&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Lanpaiva">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanpaiva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   
@@ -29,7 +29,7 @@ Desenvolvedor de Software Backend.
     
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=allaNomade&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Lanpaiva&theme=gotham&hide_border=true&area=true)
     
    <div style="display:inline_block" align="center">
   <a href = "mailto:contatoalanpaiva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>

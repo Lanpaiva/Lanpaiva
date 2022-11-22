@@ -4,7 +4,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+PAIVA;EU+TENHO+24+ANOS;EU+SOU+DE+SÃO+PAULO-BR;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;E+GO+EXPERT+PELA+FULL+CYCLE;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALAN+PAIVA;EU+TENHO+24+ANOS;EU+SOU+DE+SÃO+PAULO-SP;EU+ESTUDO+DESENVOLVIMENTO+WEB+PELA+AWARI;E+GO+EXPERT+PELA+FULL+CYCLE;SEJA+BEM-VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Lanpaiva">

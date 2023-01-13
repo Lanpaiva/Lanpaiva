@@ -32,6 +32,7 @@
  
    ## Focus:
   + Clean Architecture
+  + Web Development
   + Unit Tests
   + OOP
   

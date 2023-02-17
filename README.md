@@ -31,8 +31,8 @@
    ## Focus:
   + Clean Architecture
   + Web Development
-  + API Rest
   + Unit Tests
+  + API Rest
   + OOP
   
    <div style="display:inline_block" align="center">

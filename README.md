@@ -30,9 +30,9 @@
  
    ## Focus:
   + Clean Architecture
-  + Web Development
   + API RESTful
   + Unit Tests
+  + GraphQL
   + OOP
   
    <div style="display:inline_block" align="center">

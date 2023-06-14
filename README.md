@@ -1,22 +1,15 @@
-<div style="margin-right: 30px;">
- <h1>
-   Olá! Eu sou o Alan Paiva! 
-  <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
-  <img src="./img/tux-linux-penguin.gif" width="70px" height="70px">
-
- </h1>
-</div>
+## Ola, eu sou o Alan Paiva!
 > status: Desenvolvedor de Software Backend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 
 <div align="center">
   <a href="https://github.com/Lanpaiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanpaiva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ## Tech stack:
+  ## 👨‍💻 Tech Stack:
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
@@ -33,7 +26,7 @@
   <img align="center" alt="AlanSql" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div> 
  
-   ## Focus:
+   ## 🎯 Focusing On / Interests:
   + Clean Architecture
   + API RESTful
   + Unit Tests

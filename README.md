@@ -1,5 +1,11 @@
- ## Ola, eu sou o Alan Paiva!
+<div style="margin-right: 30px;">
+ <h1>
+   Olá! Eu sou o Alan Paiva! 
+  <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
+  <img src="./img/tux-linux-penguin.gif" width="70px" height="70px">
 
+ </h1>
+</div>
 > status: Desenvolvedor de Software Backend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>

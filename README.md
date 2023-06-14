@@ -1,4 +1,4 @@
-## Ola, eu sou o Alan Paiva!
+## Ola, eu sou o Alan!
 > status: Desenvolvedor de Software Backend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>

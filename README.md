@@ -17,6 +17,7 @@
     <img align="center" alt="Alan-TS" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" alt="Alan-NODE" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Alan-React" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center" alt="Alan-Nest" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
      <img align="center" alt="AlanGraphQL" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
    <img align="center" alt="Alan-JEST" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img align="center" alt="AlanDocker" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />

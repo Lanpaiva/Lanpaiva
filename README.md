@@ -1,5 +1,5 @@
-## Ola, eu sou o Alan!
-> Desenvolvedor de Software
+
+>  < Software Developer />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 
@@ -39,11 +39,7 @@
      <a href="https://www.linkedin.com/in/alanpaiva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank" height="28" ></a>
       <a href ="https://app.slack.com/client/T8F4LDVK8/C8DNQ2ZCH/user_profile/U0311J03Y0N"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
        </div>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-    </div>
-     <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanpaiva}/count.svg" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=footer"/>

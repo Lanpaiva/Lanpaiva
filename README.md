@@ -26,10 +26,9 @@
 </div> 
  
    ## 🎯 Focusing On / Interests:
-  + Clean Architecture
+  + Deep Learning
   + API RESTful
-  + Unit Tests
-  + GraphQL
+  + Automation
   + OOP
   
    <div style="display:inline_block" align="center">

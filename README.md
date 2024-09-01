@@ -26,7 +26,7 @@
 </div> 
  
    ## 🎯 Focusing On / Interests:
-  + Deep Learning
+  + Linux
   + API RESTful
   + Automation
   + OOP

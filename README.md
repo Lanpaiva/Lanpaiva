@@ -9,7 +9,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanpaiva&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"/>
 </div>
 
-  ## 👨‍💻 Tech Stack:
+  ##  Tech Stack:
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
@@ -18,7 +18,7 @@
      <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 
  
-   ## 🎯 Focusing On / Interests:
+   ##  Focusing On / Interests:
   + Linux
   + API RESTful
   + Automation

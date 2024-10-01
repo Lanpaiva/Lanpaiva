@@ -1,9 +1,8 @@
 
->  < 🧿🐝Ⓜ️ />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
-![Image Description](https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-5.png)
-
+<div align="center">
+  <img width="30%" src="https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-5.png">
+</div>
 <div align="center">
   <a href="https://github.com/Lanpaiva">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true"/>

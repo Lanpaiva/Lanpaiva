@@ -2,7 +2,7 @@
 >  < 🧿🐝Ⓜ️ />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
-![Image Description](https://github.com/lanpaiva/lanpaiva/pngwing.com-5.png)
+![Image Description](https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-5.png)
 
 <div align="center">
   <a href="https://github.com/Lanpaiva">

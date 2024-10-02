@@ -1,4 +1,13 @@
 
+<div style="margin-right: 30px;">
+ <h1>
+   Sup! I'm Marcos! 
+  <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
+  <img src="./tux-linux-penguin.gif" width="70px" height="70px">
+
+ </h1>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 <div align="center">
   <img width="30%" src="https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-5.png">

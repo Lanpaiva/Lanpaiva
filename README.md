@@ -31,8 +31,8 @@
  
    ##  Focusing On / Interests:
   + Linux
-  + Openshift
-  + Security
+  + Red Hat Openshift
+  + QRadar Security
   + Automation
   
    <div style="display:inline_block" align="center">

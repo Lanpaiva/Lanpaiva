@@ -1,7 +1,7 @@
 
 <div style="margin-right: 30px;">
  <h1>
-   Sup! I'm Marcos! 
+   Hello! I'm Alan! 
   <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
   <img src="./tux-linux-penguin.gif" width="70px" height="70px">
 

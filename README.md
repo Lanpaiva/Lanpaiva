@@ -31,9 +31,9 @@
  
    ##  Focusing On / Interests:
   + Linux
-  + API RESTful
+  + Openshift
+  + Security
   + Automation
-  + OOP
   
    <div style="display:inline_block" align="center">
    <a href = "mailto:allanpaiva17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

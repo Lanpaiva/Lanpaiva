@@ -34,8 +34,9 @@
   + Red Hat Openshift
   + SPSS
   + IBM Workload Scheduler
-  + IBM Cloud Pak for AIOPS
   + IBM Cloud Pak for Data
+  + IBM Cloud Pak for Business Automation 
+
   
    <div style="display:inline_block" align="center">
    <a href = "mailto:allanpaiva17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

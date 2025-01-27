@@ -30,9 +30,10 @@
 </div> 
  
    ##  Focusing On / Interests:
+  + AIX
   + Linux
-  + Red Hat Openshift
   + SPSS
+  + Red Hat Openshift
   + IBM Workload Scheduler
   + IBM Cloud Pak for Data
   + IBM Cloud Pak for Business Automation 

@@ -10,7 +10,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=header"/>
 <div align="center">
-  <img width="30%" src="https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-6.png">
+  <img width="30%" src="https://github.com/Lanpaiva/Lanpaiva/blob/main/pngwing.com-2.png">
 </div>
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4254bb&height=90&section=footer"/>

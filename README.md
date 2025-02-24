@@ -23,8 +23,11 @@
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="AlanGO" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+   <img align="center" alt="AlanSPSS" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
   <img align="center" alt="AlanRedHat" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
-   <img align="center" alt="AlanRedHat" height="33" width="39" src="./OpenShift-LogoType.svg">
+   <img align="center" alt="AlanTux" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   <img align="center" alt="AlanRedHatOpenShift" height="33" width="39" src="./OpenShift-LogoType.svg">
+   <img align="center" alt="AlanSPSS" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
    <img align="center" alt="AlanDocker" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 

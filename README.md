@@ -31,7 +31,7 @@
    <img align="center" alt="AlanDocker" height="37" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 
- 
+
    ##  Focusing On / Interests:
   + AIX
   + Linux

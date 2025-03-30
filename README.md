@@ -36,7 +36,7 @@
   + AIX
   + Linux
   + SPSS
-  + Ansible
+  + Red Hat Ansible
   + Red Hat Openshift
   + IBM Workload Scheduler
   + IBM Cloud Pak for Data

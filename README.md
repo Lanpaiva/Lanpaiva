@@ -15,8 +15,8 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f41100&height=90&section=footer"/>
   <a href="https://github.com/Lanpaiva">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanpaiva&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lanpaiva&show_icons=true&theme=shadow_red&rank_icon=github&hide_border=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanpaiva&layout=compact&langs_count=10&hide_border=true&theme=shadow_red"/>
 </div>
 
   ##  Tech Stack:

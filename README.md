@@ -36,10 +36,13 @@
   + AIX
   + Linux
   + SPSS
+  + IBM MQ
+  + IBM App Connect Enterprise
   + Red Hat Ansible
   + Red Hat Openshift
   + IBM Workload Scheduler
   + IBM Cloud Pak for Data
+  + IBM Cloud Pak for Integration
   + IBM Cloud Pak for Business Automation 
 
   

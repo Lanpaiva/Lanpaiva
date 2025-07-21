@@ -32,6 +32,9 @@
    <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 
 
+## Credentials:
+<img alt="AlanRedHatOpenShift" height="120" width="100" src="./Screenshot 2025-07-21 at 12.52.09.png"/>
+
    ##  Focusing On / Interests:
   + AIX
   + Linux

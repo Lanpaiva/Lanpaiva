@@ -47,13 +47,17 @@
 <img alt="AlanIBMCP4D" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
 <img alt="AlanIBMACE 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
 <img alt="AlanIBMACE 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
-<img alt="AlanIBMwxo" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
+<img alt="AlanIBMwxo 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
 <img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
- <img alt="AlanIBMwxai" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
-<img alt="AlanIBMACE 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
-<img alt="AlanIBMACE 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
-<img alt="AlanIBMwxo" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
-<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
+ <img alt="AlanIBMwxAI 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
+<img alt="AlanIBMCloudPak" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.41.png"/>
+<img alt="AlanIBMwxo 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.50.png"/>
+<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.59.png"/>
+<img alt="AlanIBMwxAI 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.08.png"/>
+ <img alt="AlanIBMCloudPakAPP" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.27.png"/>
+<img alt="AlanIBMAIOPS" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.39.png"/>
+<img alt="AlanIBMVMware" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.47.png"/>
+<img alt="AlanIBMwx" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.57.png"/>
 </div> 
 
    ##  Focusing On / Interests:

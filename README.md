@@ -32,8 +32,29 @@
    <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 
 
-## Credentials:
-<img alt="AlanRedHatOpenShift" height="120" width="100" src="./Screenshot 2025-07-21 at 12.52.09.png"/>
+## Red Hat Credentials:
+
+<div style="display: inline_block" align="left"><br>
+<img alt="AlanRedHatOpenShift 1" height="120" width="100" src="./Screenshot 2025-07-21 at 12.52.09.png"/>
+<img alt="AlanRedHatOpenShift 2" height="120" width="100" src="./Screenshot 2025-07-21 at 14.48.37.png"/>
+<img alt="AlanRedHatOpenShift AI 1" height="120" width="100" src="./Screenshot 2025-07-21 at 14.56.28.png"/>
+<img alt="AlanRedHatOpenShift AI 2" height="120" width="100" src="./Screenshot 2025-07-21 at 14.49.08.png"/>
+<img alt="AlanRedHatOpenShift AWS" height="120" width="100" src="./Screenshot 2025-07-21 at 14.49.17.png"/>
+</div> 
+
+## IBM Credentials:
+<div style="display: inline_block" align="left"><br>
+<img alt="AlanIBMCP4D" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
+<img alt="AlanIBMACE 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
+<img alt="AlanIBMACE 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
+<img alt="AlanIBMwxo" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
+<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
+ <img alt="AlanIBMwxai" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
+<img alt="AlanIBMACE 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
+<img alt="AlanIBMACE 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
+<img alt="AlanIBMwxo" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
+<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
+</div> 
 
    ##  Focusing On / Interests:
   + AIX

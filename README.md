@@ -70,6 +70,7 @@
   + Red Hat Openshift
   + IBM Workload Scheduler
   + IBM Cloud Pak for Data
+  + IBM Cloud Pak for AIOps
   + IBM Cloud Pak for Integration
   + IBM Cloud Pak for Business Automation 
 

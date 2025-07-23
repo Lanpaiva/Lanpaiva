@@ -35,29 +35,29 @@
 ## Red Hat Credentials:
 
 <div style="display: inline_block" align="left"><br>
-<img alt="AlanRedHatOpenShift 1" height="120" width="100" src="./Screenshot 2025-07-21 at 12.52.09.png"/>
-<img alt="AlanRedHatOpenShift 2" height="120" width="100" src="./Screenshot 2025-07-21 at 14.48.37.png"/>
-<img alt="AlanRedHatOpenShift AI 1" height="120" width="100" src="./Screenshot 2025-07-21 at 14.56.28.png"/>
-<img alt="AlanRedHatOpenShift AI 2" height="120" width="100" src="./Screenshot 2025-07-21 at 14.49.08.png"/>
-<img alt="AlanRedHatOpenShift AWS" height="120" width="100" src="./Screenshot 2025-07-21 at 14.49.17.png"/>
+<img alt="AlanRedHatOpenShift 1" height="166" width="165" src="./Screenshot 2025-07-21 at 12.52.09.png"/>
+<img alt="AlanRedHatOpenShift 2" height="166" width="165" src="./Screenshot 2025-07-21 at 14.48.37.png"/>
+<img alt="AlanRedHatOpenShift AI 1" height="166" width="165" src="./Screenshot 2025-07-21 at 14.56.28.png"/>
+<img alt="AlanRedHatOpenShift AI 2" height="166" width="165" src="./Screenshot 2025-07-21 at 14.49.08.png"/>
+<img alt="AlanRedHatOpenShift AWS" height="166" width="165" src="./Screenshot 2025-07-21 at 14.49.17.png"/>
 </div> 
 
 ## IBM Credentials:
 <div style="display: inline_block" align="left"><br>
-<img alt="AlanIBMCP4D" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
-<img alt="AlanIBMACE 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
-<img alt="AlanIBMACE 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
-<img alt="AlanIBMwxo 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
-<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
- <img alt="AlanIBMwxAI 2" height="120" width="100" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
-<img alt="AlanIBMCloudPak" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.41.png"/>
-<img alt="AlanIBMwxo 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.50.png"/>
-<img alt="AlanIBMwxdata" height="120" width="100" src="./Screenshot 2025-07-21 at 15.11.59.png"/>
-<img alt="AlanIBMwxAI 1" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.08.png"/>
- <img alt="AlanIBMCloudPakAPP" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.27.png"/>
-<img alt="AlanIBMAIOPS" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.39.png"/>
-<img alt="AlanIBMVMware" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.47.png"/>
-<img alt="AlanIBMwx" height="120" width="100" src="./Screenshot 2025-07-21 at 15.12.57.png"/>
+<img alt="AlanIBMCP4D" height="166" width="166" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
+<img alt="AlanIBMACE 2" height="166" width="166" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
+<img alt="AlanIBMACE 1" height="166" width="166" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
+<img alt="AlanIBMwxo 2" height="166" width="166" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
+<img alt="AlanIBMwxdata" height="166" width="166" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
+ <img alt="AlanIBMwxAI 2" height="166" width="166" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
+<img alt="AlanIBMCloudPak" height="166" width="166" src="./Screenshot 2025-07-21 at 15.11.41.png"/>
+<img alt="AlanIBMwxo 1" height="166" width="165" src="./Screenshot 2025-07-21 at 15.11.50.png"/>
+<img alt="AlanIBMwxdata" height="166" width="166" src="./Screenshot 2025-07-21 at 15.11.59.png"/>
+<img alt="AlanIBMwxAI 1" height="166" width="166" src="./Screenshot 2025-07-21 at 15.12.08.png"/>
+ <img alt="AlanIBMCloudPakAPP" height="166" width="166" src="./Screenshot 2025-07-21 at 15.12.27.png"/>
+<img alt="AlanIBMAIOPS" height="166" width="166" src="./Screenshot 2025-07-21 at 15.12.39.png"/>
+<img alt="AlanIBMVMware" height="166" width="166" src="./Screenshot 2025-07-21 at 15.12.47.png"/>
+<img alt="AlanIBMwx" height="166" width="166" src="./Screenshot 2025-07-21 at 15.12.57.png"/>
 </div> 
 
    ##  Focusing On / Interests:

@@ -32,6 +32,11 @@
    <img align="center" alt="Alank8s" height="33" width="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div> 
 
+## AWS Credentials:
+<div style="display: inline_block" align="left"><br>
+
+</div> 
+
 ## Red Hat Credentials:
 
 <div style="display: inline_block" align="left"><br>

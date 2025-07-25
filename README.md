@@ -49,10 +49,10 @@
 
 ## IBM Credentials:
 <div style="display: inline_block" align="left"><br>
-<img alt="AlanIBMCP4D" height="126" width="126" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
-<img alt="AlanIBMACE 2" height="126" width="126" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
-<img alt="AlanIBMACE 1" height="126" width="126" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
-<img alt="AlanIBMwxo 2" height="126" width="126" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
+<img alt="AlanIBMCP4D" height="116" width="116" src="./Screenshot 2025-07-21 at 15.05.15.png"/>
+<img alt="AlanIBMACE 2" height="116" width="116" src="./Screenshot 2025-07-21 at 15.05.32.png"/>
+<img alt="AlanIBMACE 1" height="116" width="116" src="./Screenshot 2025-07-21 at 15.05.41.png"/>
+<img alt="AlanIBMwxo 2" height="116" width="116" src="./Screenshot 2025-07-21 at 15.05.54.png"/>
 <img alt="AlanIBMwxdata" height="126" width="126" src="./Screenshot 2025-07-21 at 15.06.03.png"/>
  <img alt="AlanIBMwxAI 2" height="126" width="126" src="./Screenshot 2025-07-21 at 15.06.12.png"/>
 <img alt="AlanIBMCloudPak" height="126" width="126" src="./Screenshot 2025-07-21 at 15.11.41.png"/>

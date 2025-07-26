@@ -35,7 +35,8 @@
 ## AWS Credentials:
 <div style="display: inline_block" align="left"><br>
 <img alt="AlanAWSCompute" height="116" width="116" src="./aws-educate-getting-started-with-compute.png"/>
-<img alt="AlanAWSStoragee" height="116" width="116" src="./aws-educate-getting-started-with-storage.png"/>
+<img alt="AlanAWSStorage" height="116" width="116" src="./aws-educate-getting-started-with-storage.png"/>
+<img alt="AlanAWSNetworking" height="116" width="116" src="./aws-educate-getting-started-with-networking.png"/>
 </div> 
 
 ## Red Hat Credentials:

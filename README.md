@@ -88,7 +88,5 @@
       <a href ="https://app.slack.com/client/T8F4LDVK8/C8DNQ2ZCH/user_profile/U0311J03Y0N"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
     <a href="5511958836473"> <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat"></a>
        </div>
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanpaiva}/count.svg" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f41100&height=90&section=footer"/>

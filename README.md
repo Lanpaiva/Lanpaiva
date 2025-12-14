@@ -70,16 +70,14 @@
    ##  Focusing On / Interests:
   + AIX
   + Linux
-  + SPSS
+  + Red Hat Openshift
+  + IBM watsonx.data
+  + IBM watsonx.orchestrate
   + IBM MQ
   + IBM App Connect Enterprise
-  + Red Hat Ansible
-  + Red Hat Openshift
   + IBM Workload Scheduler
   + IBM Cloud Pak for Data
-  + IBM Cloud Pak for AIOps
   + IBM Cloud Pak for Integration
-  + IBM Cloud Pak for Business Automation 
 
   
    <div style="display:inline_block" align="center">
